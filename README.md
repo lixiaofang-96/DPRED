@@ -23,6 +23,7 @@ python Denoise_enI_train.py
 python test_LOL.py
 python test_LIME.py
 ```
+Note the checkpoint for Fnet can be downloaded at https://drive.google.com/drive/folders/1SMv2BUe1Ete3J9-K6lIEInCWhJFvaXRv?usp=sharing.
 
 ## Model
 ```
