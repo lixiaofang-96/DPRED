@@ -1,7 +1,8 @@
 # DPRED
 Code used for "Deep parametric Retinex decomposition model for low-light image enhancement" (Computer Vision and Image Understanding)
 
-![DPRED](https://github.com/lixiaofang-96/DPRED/blob/main/network.png "DPRED")
+## Network
+![DPRED](https://github.com/lixiaofang-96/DPRED/blob/main/network.png)
 
 ## Implementation
 ```
